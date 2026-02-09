@@ -1,4 +1,5 @@
-# iverilog-AND-OR-gates
+# iverilog-DAY1
+
 Day 1 — Combinational Logic & Simulation Basics
 
 Verilog Module Structure
